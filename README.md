@@ -1,6 +1,3 @@
-
-Here's a concise and engaging GitHub description for your EDUBOT project, with a focus on welcoming users and highlighting your participation in the PyCon hackathon:
-
 EDUBOT 🤖
 Welcome to EDUBOT – the AI-powered educational assistant designed to help students identify their academic strengths and guide them toward the best-fitting faculties. 🌟
 
